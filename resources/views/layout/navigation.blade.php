@@ -176,8 +176,8 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <ul>
-                <li><a class="dropdown-item" href="{{ route('am') }}">Amharic</a></li>
-                <li><a class="dropdown-item" href="{{ route('en') }}">English</a></li>
+                <li><a class="dropdown-item" href="/am">Amharic</a></li>
+                <li><a class="dropdown-item" href="/en">English</a></li>
               </ul>
             </div>
           </li>
