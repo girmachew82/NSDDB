@@ -133,13 +133,10 @@
 
           </div>
         </li>
-		          <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="/charity/ምግባረ_ሰናይ" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
-            ምግባረ ሰናይ
-          </a>
-
-        </li>
+        <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/charity/ምግባረ_ሰናይ"> ምግባረ ሰናይ</a>
+          </li>
+		
 		 <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
