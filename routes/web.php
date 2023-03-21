@@ -59,6 +59,15 @@ Route::get('/about/ገዳማትና_አድባራት',function(){
     return view('about.ገዳማትና_አድባራት');
 });
 
+Route::get('/service/ስብከተ_ወንጌል',function(){
+    return view('service.ስብከተ_ወንጌል');
+});
+
+
+Route::get('/service/ሰበካ_ጉባኤ',function(){
+    return view('service.ሰበካ_ጉባኤ');
+});
+
 //localization route
 Route::get("locale/{lange}",[LocalizationController::class,'setLang']);
 

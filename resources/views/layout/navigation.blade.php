@@ -89,8 +89,8 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <ul>
-              <li><a class="dropdown-item" href="#">ሰበካ ጉባኤ</a></li>
-              <li><a class="dropdown-item" href="/academics/iot">ስብከተ ወንጌል</a></li>
+              <li><a class="dropdown-item" href="/service/ሰበካ_ጉባኤ">ሰበካ ጉባኤ</a></li>
+              <li><a class="dropdown-item" href="/service/ስብከተ_ወንጌል">ስብከተ ወንጌል</a></li>
               <li><a class="dropdown-item" href="#">እቅድና ልማት</a></li>
               <li><a class="dropdown-item" href="#">የሰው ሀብት አስተዳደር</a></li>
               <li><a class="dropdown-item" href="#">የቅርሳቅርስ እንክብካቤ</a></li>
