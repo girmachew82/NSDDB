@@ -61,6 +61,15 @@ Route::get('/charity/ምግባረ_ሰናይ',function(){
     return view('charity.ምግባረ_ሰናይ');
 });
 
+Route::get('/service/ስብከተ_ወንጌል',function(){
+    return view('service.ስብከተ_ወንጌል');
+});
+
+
+Route::get('/service/ሰበካ_ጉባኤ',function(){
+    return view('service.ሰበካ_ጉባኤ');
+});
+
 //localization route
 Route::get("locale/{lange}",[LocalizationController::class,'setLang']);
 
