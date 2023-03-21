@@ -193,7 +193,7 @@
 
                                 <div class="col-md-4 mb-3">
                                     <div class="card">
-                                        <img class="img-fluid" alt="100%x280" src="{{ asset('images/Pops/AE2.jpg') }}">
+                                        <img class="figure-img rounded img-fluid max-width: 100%  height: auto align-center" alt="" width="40%" height="300" alt="100%x280" src="{{ asset('images/Pops/AE2.jpg') }}">
                                         <div class="card-body">
                                             <h4 class="card-title">አቡነ ኤፍሬም</h4>
                                             <p class="card-text"><<>></p>
@@ -204,7 +204,7 @@
                                 </div>
                                 <div class="col-md-4 mb-3">
                                     <div class="card">
-                                        <img class="img-fluid" alt="100%x280" src="{{ asset('images/Pops/AE2.jpg') }}">
+                                        <img class="figure-img rounded img-fluid max-width: 100%  height: auto align-center" alt="" width="40%" height="300" alt="100%x280" src="{{ asset('images/Pops/AE2.jpg') }}">
                                         <div class="card-body">
                                             <h4 class="card-title">አቡነ ኤፍሬም</h4>
                                             <p class="card-text"><<>></p>
@@ -213,9 +213,9 @@
                                 </div>
                                 <div class="col-md-4 mb-3">
                                     <div class="card">
-                                        <img class="img-fluid" alt="100%x280" src="{{ asset('images/Pops/AE2.jpg') }}">
+                                        <img class="figure-img rounded img-fluid max-width: 100%  height: auto align-center" alt="አቡነ ቀለሚንጦስ" width="40%" height="300"  src="{{ asset('images/Pops/AK1.jpg') }}">
                                         <div class="card-body">
-                                            <h4 class="card-title">አቡነ ኤፍሬም</h4>
+                                            <h4 class="card-title">አቡነ ቀለሚንጦስ</h4>
                                             <p class="card-text"><<>></p>
                                         </div>
                                     </div>

@@ -54,9 +54,11 @@ Route::get('/academics/canr',function(){
 Route::get('/about/ራዕይ_እና_ተልዕኮ',function(){
     return view('about.ራዕይ_እና_ተልዕኮ');
 });
-
-Route::get('/about/ገዳማትና_አድባራት',function(){
-    return view('about.ገዳማትና_አድባራት');
+Route::get('/about/ራዕይ_እና_ተልዕኮ',function(){
+    return view('about.ራዕይ_እና_ተልዕኮ');
+});
+Route::get('/charity/ምግባረ_ሰናይ',function(){
+    return view('charity.ምግባረ_ሰናይ');
 });
 
 //localization route

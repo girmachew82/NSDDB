@@ -134,7 +134,7 @@
           </div>
         </li>
 		          <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+          <a class="nav-link dropdown-toggle" href="/charity/ምግባረ_ሰናይ" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
             ምግባረ ሰናይ
           </a>
