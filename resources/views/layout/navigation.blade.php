@@ -77,8 +77,8 @@
             <ul>
               <li><a class="dropdown-item" href="/about/የጽ_ቤት_መልዕክት">የሰሜን ሸዋ ሃገረ ስብከት ጽ/ቤት መልዕክት</a></li>
               <li><a class="dropdown-item" href="/history/የሃገረ_ስብከት_ታሪክ">የሃገረ ስብከቱ ታሪክ</a></li>
-              <li><a class="dropdown-item" href="#">ራእይና ተልዕኮ</a></li>
-              <li><a class="dropdown-item" href="#">የገዳማተና አድባራት</a></li>
+              <li><a class="dropdown-item" href="/about/ራዕይ_እና_ተልዕኮ">ራእይና ተልዕኮ</a></li>
+              <li><a class="dropdown-item" href="/about/ገዳማትና_አድባራት">የገዳማተና አድባራት</a></li>
             </ul>
           </div>
         </li>

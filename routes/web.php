@@ -51,6 +51,14 @@ Route::get('/academics/iot',function(){
 Route::get('/academics/canr',function(){
     return view('academics.canr.index');
 });
+Route::get('/about/ራዕይ_እና_ተልዕኮ',function(){
+    return view('about.ራዕይ_እና_ተልዕኮ');
+});
+
+Route::get('/about/ገዳማትና_አድባራት',function(){
+    return view('about.ገዳማትና_አድባራት');
+});
+
 //localization route
 Route::get("locale/{lange}",[LocalizationController::class,'setLang']);
 
