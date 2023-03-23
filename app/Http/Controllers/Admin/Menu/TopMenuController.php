@@ -18,13 +18,13 @@ class TopMenuController extends Controller
        }
        public function store(Request $request)
        {
-        TopMenu::create([
+         TopMenu::create([
                 'name'=>$request->name,
                 'link'=>$request->link,
                 'status'=>$request->status,
         ]);
         return redirect()->back();
        }
-   
+
      }
 

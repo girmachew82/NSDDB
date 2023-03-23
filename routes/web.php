@@ -54,15 +54,17 @@ Route::get('/academics/canr',function(){
 Route::get('/about/ራዕይ_እና_ተልዕኮ',function(){
     return view('about.ራዕይ_እና_ተልዕኮ');
 });
-Route::get('/about/ራዕይ_እና_ተልዕኮ',function(){
-    return view('about.ራዕይ_እና_ተልዕኮ');
+Route::get('/about/ገዳማትና_አድባራት',function(){
+    return view('about.ገዳማትና_አድባራት');
 });
 Route::get('/charity/ምግባረ_ሰናይ',function(){
     return view('charity.ምግባረ_ሰናይ');
 });
 
-Route::get('/service/ስብከተ_ወንጌል',function(){
-    return view('service.ስብከተ_ወንጌል');
+
+
+Route::get('/service/እቅድና_ልማት',function(){
+    return view('service.እቅድና_ልማት');
 });
 
 
@@ -70,6 +72,13 @@ Route::get('/service/ሰበካ_ጉባኤ',function(){
     return view('service.ሰበካ_ጉባኤ');
 });
 
+Route::get('/service/የሰው_ሃብት_አስተዳደር',function(){
+    return view('service.የሰው_ሃብት_አስተዳደር');
+});
+
+Route::get('/service/የቅርስ_እንክብካቤ',function(){
+    return view('service.የቅርስ_እንክብካቤ');
+});
 //localization route
 Route::get("locale/{lange}",[LocalizationController::class,'setLang']);
 

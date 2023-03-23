@@ -90,10 +90,10 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <ul>
               <li><a class="dropdown-item" href="/service/ሰበካ_ጉባኤ">ሰበካ ጉባኤ</a></li>
-              <li><a class="dropdown-item" href="/service/ስብከተ_ወንጌል">ስብከተ ወንጌል</a></li>
-              <li><a class="dropdown-item" href="#">እቅድና ልማት</a></li>
-              <li><a class="dropdown-item" href="#">የሰው ሀብት አስተዳደር</a></li>
-              <li><a class="dropdown-item" href="#">የቅርሳቅርስ እንክብካቤ</a></li>
+
+              <li><a class="dropdown-item" href="/service/እቅድና_ልማት">እቅድና ልማት</a></li>
+              <li><a class="dropdown-item" href="/service/የሰው_ሃብት_አስተዳደር">የሰው ሀብት አስተዳደር</a></li>
+              <li><a class="dropdown-item" href="/service/የቅርስ_እንክብካቤ">የቅርሳቅርስ እንክብካቤ</a></li>
             </ul>
           </div>
         </li>
@@ -136,7 +136,7 @@
         <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="/charity/ምግባረ_ሰናይ"> ምግባረ ሰናይ</a>
           </li>
-		
+
 		 <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
