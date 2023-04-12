@@ -219,7 +219,7 @@
 
                                     <div class="col-md-4 mb-3">
                                         <div class="card">
-                                            <img src="{{asset('images/ab.jpg')}}" alt='likepapas photo' width=100% height="400" class="img-fluid max-width: 100%  height: auto align-center">
+                                            <img src="{{asset('images/ab.jpg')}}" alt='likepapas photo' width=100% height="300" class="img-fluid max-width: 100%  height: 300 align-center">
                                             <div class="card-body">
                                                 <h4 class="card-title" style="color: rgb(13, 2, 71)"><strong>አባ ቀሌምንጦስ ቀዳማዊ</strong></h4>
                                                 <p class="card-text" style="color: rgb(13, 2, 71)"><strong>በኢ/ኦ/ተ/ቤተ ክርስቲያን መንበረ ፓትርያርክ ጠቅላይ ጽ/ቤት
@@ -231,7 +231,7 @@
                                     </div>
                                     <div class="col-md-4 mb-3">
                                         <div class="card">
-                                            <img src="{{asset('images/Pops/AE1.jpg')}}" alt='likepapas photo' width=100% height="400" class="img-fluid max-width: 100%  height: auto align-center">
+                                            <img src="{{asset('images/Pops/AE1.jpg')}}" alt='likepapas photo' width=100% height="300" class="img-fluid max-width: 100%  height: 300 align-center">
                                              <div class="card-body">
                                                 <h4 class="card-title">አቡነ ኤፍሬም </h4>
                                                 <p class="card-text">የሰሜን ሸዋ ሀ/ስብከት ሊቀ ጳጳስ ከ1983-2014 ዓ.ም</p>
@@ -241,7 +241,7 @@
                                     </div>
                                     <div class="col-md-4 mb-3">
                                         <div class="card">
-                                            <img src="{{asset('images/Pops/ጎርጎሪዮስ.jpg')}}" alt='likepapas photo' width=100% height="400" class="img-fluid max-width: 100%  height: auto align-center">
+                                            <img src="{{asset('images/Pops/ጎርጎሪዮስ.jpg')}}" alt='likepapas photo' width=100% height="300" class="img-fluid max-width: 100%  height: 300 align-center">
                                             <div class="card-body">
                                                 <h4 class="card-title"><strong>አቡነ ጎርጎሪዮስ</strong></h4>
                                                 <p class="card-text">የሰሜን ሸዋ ሀ/ስብከት ሊቀ ጳጳስ 1972-1982</p>

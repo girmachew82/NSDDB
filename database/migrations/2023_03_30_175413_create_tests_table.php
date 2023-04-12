@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateTopMenusTable extends Migration
+class CreateTestsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,8 @@ class CreateTopMenusTable extends Migration
      */
     public function up()
     {
-        Schema::create('top_menus', function (Blueprint $table) {
+        Schema::create('tests', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('link');
-            $table->string('status');
             $table->timestamps();
         });
     }
@@ -29,6 +26,6 @@ class CreateTopMenusTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('top_menus');
+        Schema::dropIfExists('tests');
     }
 }
